@@ -1,0 +1,26 @@
+:root {
+    --color1: #FFFFFF;
+    --color2: #5F05FF;
+    --primitive: #005faf;
+    --Error: #B3261E;
+    --Background: #14151a;
+    --Surface: #101014;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: sans-serif;
+    color: var(--color3);
+    scroll-behavior: smooth;
+    color: var(--color1)
+}
+
+body {
+    background-color: var(--Background);
+    font-size: 1rem;
+    line-height: 1.5;
+}
